@@ -1,7 +1,8 @@
 #set(집합)
 # 중복 허용X
+# 순서 유지X
 # 시퀀스 타입X
-# 순회(iterable)O
+# 순회(iterable) 가능
 # 집합 관련 메서드 제공
 
 print('--- set ---')
